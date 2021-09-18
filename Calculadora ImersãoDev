@@ -1,0 +1,17 @@
+var nome= "Allo" 
+
+var notaDoPrimeiroBimestre= 8.32
+var notaDoSegundoBimestre= 7.323
+var notaDoTerceiroBimestre= 10.323
+var notaDoQuartoBimestre= 4.543
+
+var notaFinal= (notaDoPrimeiroBimestre + notaDoSegundoBimestre + notaDoTerceiroBimestre + notaDoQuartoBimestre) / 4
+
+var notaFixada= notaFinal.toFixed(1)
+
+console.log("bem vindo " + nome)
+console.log(notaFixada)
+
+// Esse sou eu, somos nós
+
+// Revisão 
